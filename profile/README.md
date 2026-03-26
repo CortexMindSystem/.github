@@ -1,4 +1,4 @@
-# CortexOS
+# CortexOS — Decides what matters
 
 A system that decides what actually matters.
 
@@ -12,4 +12,4 @@ CortexOS removes noise:
 3 priorities. Clear action.
 
 Not another AI tool.  
-A layer between information → decision → execution.
+The layer between information → decision → execution.
