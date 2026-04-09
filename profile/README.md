@@ -1,17 +1,12 @@
 # CortexOS — Decides what matters
+### Decision → Execution → Feedback → Learning
 
 ![Cortex Mind System](https://github.com/user-attachments/assets/5fcc8574-5481-4a6c-8e30-cec1fb228de0 "From Noise to Clarity. Signal → Decision → Action")
 
-A system that decides what actually matters.
+A system that decides what matters. Intelligence layer for decisions.
 
-Most tools add information.  
-CortexOS removes noise:
+Most tools add information. CortexOS removes the noise:
 
 → what matters  
 → why  
-→ what to do  
-
-3 priorities. Clear action.
-
-Not another AI tool.  
-The layer between information → decision → execution.
+→ what to do
