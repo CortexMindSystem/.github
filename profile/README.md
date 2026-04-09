@@ -5,8 +5,10 @@
 
 A system that decides what matters. Intelligence layer for decisions.
 
-Most tools add information. CortexOS removes the noise:
+Most tools add information. CortexOS gives clarity:
 
-→ what matters  
-→ why  
-→ what to do
+→ what matters
+→ why it matters
+→ what to do next
+
+Built to reduce noise into 3 priorities.
