@@ -5,7 +5,7 @@
 
 A system that decides what matters. Intelligence layer for decisions.
 
-Most tools add information. CortexOS gives clarity:
+Most tools add information instead of clarity:
 * → what matters
 * → why it matters
 * → what to do next
